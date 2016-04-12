@@ -1,0 +1,7 @@
+[0mGET / [36m304 [0m281.446 ms - -[0m
+[0mGET /css/style.css [36m304 [0m2.215 ms - -[0m
+[0mGET /images/bg.jpg [36m304 [0m1.119 ms - -[0m
+[0mGET /images/field.png [36m304 [0m1.271 ms - -[0m
+[0mPOST /invite [32m200 [0m316.287 ms - 710[0m
+[0mGET /css/style.css [36m304 [0m0.518 ms - -[0m
+[0mGET /images/bg.jpg [36m304 [0m0.425 ms - -[0m
