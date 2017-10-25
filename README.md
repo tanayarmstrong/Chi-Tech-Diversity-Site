@@ -10,7 +10,7 @@ and
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Setting
+# Setting
 fill out `config.js` as your infomation.
 
 * `community`: your community or team name to display on join page.
